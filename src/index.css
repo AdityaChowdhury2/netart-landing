@@ -7,8 +7,8 @@
 body {
 	background-image: linear-gradient(
 		0deg,
-		rgba(255, 255, 205, 1) 0%,
-		rgba(255, 255, 255, 1) 100%
+		rgb(255, 255, 186) 45%,
+		rgba(255, 255, 233, 1) 100%
 	);
 }
 /* linear-gradient(0deg,#ffffcd 60%,#ffffe0 20%); */
